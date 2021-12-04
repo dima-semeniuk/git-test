@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println(hi);
         String mate = "Hello mates!";
         System.out.println(mate);
+        System.out.println(hi + " " + mate);
     }
 }
